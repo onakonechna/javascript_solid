@@ -1,2 +1,2 @@
 # javascript_solid
-Implementation SOLID principles in JavaScript
+Implementation SOLID principles in JavaScript.
